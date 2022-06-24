@@ -1,0 +1,32 @@
+%styleSpanTitle {
+    color: #EDD915;
+}
+
+%headingStyle {
+    color: #FFF;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    margin-bottom: 1em;
+}
+
+%mainHeadingMobileSize {
+    font-size: 30px;
+}
+
+%hrStyle {
+    border-top: 30px solid $yellowColor;
+}
+
+%btnSubmitStyle {
+    background-color: #EDD915;
+    border: none;
+    padding: 0;
+}
+
+%icons3Style {
+    background-color: #EDD915;
+    padding: 0.5em;
+    // margin-bottom: 1em;
+    font-size: 30px;
+    color: black;
+}
